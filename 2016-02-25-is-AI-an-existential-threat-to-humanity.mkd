@@ -5,7 +5,27 @@ description: Some people think that artificial intelligence is important to the 
 tags: writing, experiment
 ---
 
+# answer
+  no
 
+# reasons
+  1. we control their goal, not allowded to kill people
+  2. AI police
+  3. not intelligent enough to not harm human
+  4. fear comes from experience: nuclear and other technologies
+  5. new jobs will appear
+  6. never will be really intelligent
+  7. some problems are both difficult for human and machine: encryption schemes; NP-hard problem
+  8. two factor authentication
+  8.1 many steps one fails all fail
+  9. have no access to weapons as human
+  10. Chinese room problem, strong AI
+  11. deterministic
+  12. greater intelligence doesn't equal a desire to kill all human
+  13. we don't compete for resources they have no reason to kill us
+  14. they only do what they designed to do
+  
+  
 
 ...........................     
 Welcome proofreading help and language suggestions. Tons of thanks in advance.
