@@ -12,23 +12,23 @@ tags: writing, experiment
 ## the question itself
   4. fear comes from experience: nuclear and other technologies
   12. greater intelligence doesn't equal a desire to kill all human
-  13. we don't compete for resources they have no reason to kill us
-  14. they only do what they're designed to do
+  13. we don't compete for resources they have no reason to kill us # but compete with our other machines
+  14. they only do what they designed to do # what if they design themselves?
 
 ## not superintelligent
-  1. we control their goal, not allowded to kill people
-  2. AI police
+  1. we control their goal, not allowded to kill people # what if you're controlled by them
+  2. AI police # and a AI government?
   6. never will be really intelligent
-  3. not intelligent enough to not harm human
+  3. not intelligent enough to not harm human # so they'll be a threat
   7. some problems are both difficult for human and machine: encryption schemes; NP-hard problem
   8. two factor authentication
   8.1 many steps one fails all fail
   9. have no access to weapons as human
-  10. Chinese room problem, strong AI
+  10. Chinese room problem, strong AI # explain it
   11. deterministic
 
 ## short term
-  5. new jobs will appear
+  5. new jobs will appear # name some?
 
 ...........................     
 Welcome proofreading help and language suggestions. Tons of thanks in advance.
