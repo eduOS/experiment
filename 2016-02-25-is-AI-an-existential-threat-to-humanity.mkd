@@ -6,17 +6,22 @@ tags: writing, experiment
 ---
 
 # answer
-  yes and no
+  not sure
 
 # reasons
-  1. AI winter: technology, it's too early
+## humanity to humanity
   2. imagination, we more imagine the worst like monsters and Gods; they will only gain bad emothions like fear, ambition and greed, but not love empathy and generosity
-  3. it's the war between human and human via AI
-  4. Is AI a bigger existential threat to humanity than humanity is to itself?"
   5. more manageable than we think
+  3. it's the war between human and human via AI, more convenient for terrorism
+  4. Is AI a bigger existential threat to humanity than humanity is to itself?"
+
+## never get there
+  1. AI winter: technology, it's too early
   6. they're not going wild until many many years later
+  8. a lot of uncertainty
+
+## we already have such power
   7. CRISPR
-  8. 
 
 
 ...........................     
