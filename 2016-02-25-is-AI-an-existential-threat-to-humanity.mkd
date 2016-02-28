@@ -10,13 +10,13 @@ tags: writing, experiment
 
 # reasons
 ## the question itself
-  4. fear comes from experience: nuclear and other technologies
+  4. fear comes from other experiences: nuclear, powder and whatnot, CBW
   12. greater intelligence doesn't equal a desire to kill all human
-  13. we don't compete for resources they have no reason to kill us # but compete with our other machines
-  14. they only do what they designed to do # what if they design themselves?
+  15. not do to humanity but for humanity
 
 ## not superintelligent
   1. we control their goal, not allowded to kill people # what if you're controlled by them
+  14. they only do what they designed to do, it may be impossible for them to design themselves
   2. AI police # and a AI government?
   6. never will be really intelligent
   3. not intelligent enough to not harm human # so they'll be a threat
@@ -25,10 +25,14 @@ tags: writing, experiment
   8.1 many steps one fails all fail
   9. have no access to weapons as human
   10. Chinese room problem, strong AI # explain it
-  11. deterministic
+  11. deterministic but not free will
 
 ## short term
-  5. new jobs will appear # name some?
+  5. new jobs will appear # name some? horse vs car, jobs between human and human satisfying
+
+## longe term 
+  13. we don't compete for resources they have no reason to kill us # but compete with our other machines, 
+  16. inequality rather than threat, most people will be unemployeable
 
 ...........................     
 Welcome proofreading help and language suggestions. Tons of thanks in advance.
