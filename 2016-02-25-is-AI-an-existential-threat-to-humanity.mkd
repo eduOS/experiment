@@ -5,15 +5,12 @@ description: Some people think that artificial intelligence is important to the 
 tags: writing, experiment
 ---
 
-# answer
-  yes
+# introduction
+  AI is replacing more and more of our jobs, and it's imaginable that they will be omnipresent and omnipotence to threathen our life. 
 
 # reasons
-## life-threatening
-  1. threatening our life, Stephen Hawking, "humans, who are limited by slow biological biological evolution, couldn't compete and would be superseded.", Elon Musk.
-  11. they will not kill us but A massive asteroid strike.  A nearby supernova or gamma ray burst.  A massive shift in the climate knocking out world food production.  An extremely virulent virus.  Global thermonuclear war. made by them would kill us. AI may won't go will but human how use them may.
-
 ## job-threatening
+  *topic sentence*: 
   4. it's going to happen
   2. replace human jobs Amazon replace FedEx, Watson replace doctors
   ? but how many jobs the AI industry has created? since cars replaced horses, we have not created as much jobs for them
@@ -30,7 +27,13 @@ tags: writing, experiment
   9. they'll be smart enough to have different will 
   12. strong AI is possible, and AI is immoral(weizenbaum)
       it's only difficult but not impossible(alanturing.net)
-  13. only a small chance of threatening leads to the whole human disaster or instinction
+
+## life-threatening
+  *topic sentence*: AI would kill us directly or indirectly
+  1. threatening our life _quote_ Stephen Hawking, "humans, who are limited by slow biological evolution, couldn't compete and would be superseded.", Elon Musk.  just like the way we treat other creatures
+  11. _examples_ they will not kill us but a massive asteroid strike, a nearby supernova or gamma ray burst, a massive shift in the climate knocking out world food production, an extremely virulent virus, Global thermonuclear war made by them would kill us. AI may won't go wild but human who own them may. only a small chance of threatening leads to the whole human disaster or instinction
+
+# conclusion
 
 ...........................     
 Welcome proofreading help and language suggestions. Tons of thanks in advance.
