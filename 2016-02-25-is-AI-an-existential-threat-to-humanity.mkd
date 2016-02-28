@@ -21,7 +21,7 @@ tags: writing, experiment
   6. never will be really intelligent
   3. not intelligent enough to not harm human # so they'll be a threat
   7. some problems are both difficult for human and machine: encryption schemes; NP-hard problem
-  8. two factor authentication
+  8. two factor authentication limitation
   8.1 many steps one fails all fail
   9. have no access to weapons as human
   10. Chinese room problem, strong AI # explain it
