@@ -10,23 +10,16 @@ tags: writing, experiment
 
 # reasons
 ## job-threatening
-  *topic sentence*: 
-  4. it's going to happen
-  2. replace human jobs Amazon replace FedEx, Watson replace doctors
-  ? but how many jobs the AI industry has created? since cars replaced horses, we have not created as much jobs for them
-  6. humans will be not important, who want to be useless and unemployeeable?
-  3. we are served by robots then we'll drop into anarchy
-  ? robots may need a government, they may be self-organized
-  7. all jobs in the last centry will be taken over by machines
-  ? absolutely not all. at lease almost all professional, white collar jobs and low skilled jobs: youtu.be/7Pq-S557XQU
+  *topic sentence*: with the machines become more and more intelligent and hence employeeable humans will need not apply
+  4. _fact: documentation and news_ it's happening, replace human jobs Amazon replace FedEx, Watson replace doctors but how many jobs the AI industry has created? since cars replaced horses, we have not created as much jobs for them, all jobs in the last centry will be taken over by machines ? absolutely not all. at lease almost all professional, white collar jobs and low skilled jobs: youtu.be/7Pq-S557XQU
+  6. _results_ humans will be not important, who want to be useless and unemployeeable? we are served by robots then we'll drop into anarchy ? robots may need a government, they may be self-organized
 
 ## omnipresent and omnipotence 
-  5. free-floating on the internet 
-  8. they may connect to other robots
-  10. they update themselves automatically
-  9. they'll be smart enough to have different will 
-  12. strong AI is possible, and AI is immoral(weizenbaum)
-      it's only difficult but not impossible(alanturing.net)
+  *topic sentence*: in this trend and as the technology advances, machines are destined to be omnipotence
+  13. _comparison_ many people argure that it's kind of impossible, but in 1990s in the AI winter many people were not of AI; strong AI is possible, and AI is immoral(weizenbaum)
+  5. _example_ free-floating on the internet; they may connect to other robots
+  10. _example_ they update themselves automatically; they'll be smart enough to have different will 
+  *conclusion*: it's only difficult but also not impossible(alanturing.net)
 
 ## life-threatening
   *topic sentence*: AI would kill us directly or indirectly
