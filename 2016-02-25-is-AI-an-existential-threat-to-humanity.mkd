@@ -5,21 +5,22 @@ description: Some people think that artificial intelligence is important to the 
 tags: writing, experiment
 ---
 
-# answer
-  not sure
+# introduction
+  As we are far away from needing to concern such a phantom, such a question is beyond the scope of, probably, our generation.
 
 # reasons
+## technologically too early
+  *topic sentence*: before worrying AI too much we should know exactly how AI today works and its history
+  10. _fact quote_ realistically speaking, AI today is very limited-Andrew Ng
+  1. _history trend_ AI winter: technology, it's too early
+  6. they're not going wild until many many years later
+  8. a lot of uncertainty
+
 ## humanity to humanity
   2. imagination, we more imagine the worst like monsters and Gods; they will only gain bad emothions like fear, ambition and greed, but not love empathy and generosity
   5. more manageable than we think
   3. it's the war between human and human via AI, more convenient for terrorism
   4. Is AI a bigger existential threat to humanity than humanity is to itself?"
-
-## never get there
-  9. what degree of AI is the real AI? intelligent as rat or human? how many years old human?
-  1. AI winter: technology, it's too early
-  6. they're not going wild until many many years later
-  8. a lot of uncertainty
 
 ## we already have such power
   7. CRISPR, yeah, intelligent biological power, but not machines are also threatening
