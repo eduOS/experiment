@@ -5,16 +5,16 @@ description: Some people think that artificial intelligence is important to the 
 tags: writing, experiment
 ---
 
-# answer
-  no
+# introduction
+  Many people are worrying about the threaten that comes from the more and more intelligent AI. but intelligence doesn't mean threaten. What's more scientists are making them not only capable but also beneficial for society. 
 
 # reasons
 ## the question itself
   4. fear comes from other experiences: nuclear, powder and whatnot, CBW
   12. greater intelligence doesn't equal a desire to kill all human
-  15. not do to humanity but for humanity
+  15. not do to humanity but for humanity, Elon Musk has donated millions of money to keep AI beneficial and many others
 
-## not superintelligent
+## capable and benefit
   1. we control their goal, not allowded to kill people # what if you're controlled by them
   14. they only do what they designed to do, it may be impossible for them to design themselves
   2. AI police # and a AI government?
