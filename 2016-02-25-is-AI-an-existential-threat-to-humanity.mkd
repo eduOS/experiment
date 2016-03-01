@@ -5,37 +5,17 @@ description: Some people think that artificial intelligence is important to the 
 tags: writing, experiment
 ---
 
-# introduction
-  Many people are worrying about the threaten that comes from the more and more intelligent AI. but intelligence doesn't mean threaten. What's more scientists are making them not only capable but also beneficial for society. 
+  Many people are worrying about the threaten that comes from the more and more intelligent AI, but intelligence doesn't mean a threat. What's more scientists and law makers are making them not only capable but also beneficial for society. 
 
-# reasons
-## the question itself
-  4. fear comes from other experiences: nuclear, powder and whatnot, CBW
-  12. greater intelligence doesn't equal a desire to kill all human
-  15. not do to humanity but for humanity, Elon Musk has donated millions of money to keep AI beneficial and many others
+  Frankly speaking, our fear of AI comes from other experiences: nuclear, powder, chemical and biological weapons and whatnot. Greater intelligence doesn't equal a desire to kill all human, artificial intelligence is not a theat to humanity but beneficial for humanity, Elon Musk and many others has donated millions of dollars to keep AI beneficial.
 
-## capable and benefit
-  *topic sentence*: our AI systems must do what we want them to do
-  20. not that capable now; Chinese room problem, strong AI # explain it
-  18. direction, only used in limited domains: economy in particular
+  Our AI systems must do what we want them to do. That means, AI must be capable and beneficial.  Although AI is not that capable now, we will finally solve the Chinese room problem and make the now weak AI to be strong AI. While they're strong AI we'll control their goal and let them only do what we allow them to do; may be they'll be only used in limited domains, economy in particular.
 
-  1. we control their goal, not allowded to kill people # what if you're controlled by them
-  14. they only do what they designed to do, it may be impossible for them to design themselves
+  Avoiding the pitfalls of AI is also a technology problem which should and can be solved. Some measures can deal with this issue. We can apply some problems which are both difficult for human and machine, such as encryption schemes and NP-hard problem to stop them continuing a whole dangeous process. For any life-threatening decision we set a two factor authentication to contain human in the loop. And autonomous weapons will be banned, any users will make sure robots are safe befor applying them.
 
-## strategies to control
-  *topic sentence*: avoiding the pitfalls of AI is also a technology problem which should be solved
-  7. some problems are both difficult for human and machine: encryption schemes; NP-hard problem 8. two factor authentication limitation
-  21. human in the loop
-  20. autonomous weapons will be banned
-  21. any users will make sure robots are safe befor applying them
+  The core issue is how we live in the post AI generation. Since most people will be not employable anymore, resulting in the wealth will be gathered by only a few other people. It is the inequality problems rather than threat ones that will arise. Then, such laws and tax rules should be made.
 
-## others aspects
-  *topic sentence*: the core issue is how we live in the post AI generation
-  19. law and ethics
-  16. inequality rather than threat, most people will be unemployeable
-
-# conclusion
-  We should be confident enough to believe the scientists and design the machines to be not only rubost but also beneficial to humanity.
+  We should be confident enough to believe the scientists and law makers who will design the machines to be not only rubost but also beneficial to humanity.
 
 ...........................     
 Welcome proofreading help and language suggestions. Tons of thanks in advance.
