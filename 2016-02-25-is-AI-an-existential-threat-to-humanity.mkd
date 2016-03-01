@@ -5,29 +5,27 @@ description: Some people think that artificial intelligence is important to the 
 tags: writing, experiment
 ---
 
-# introduction
-  AI is replacing more and more of our jobs, and it's imaginable that they will be omnipresent and omnipotence to threathen our life. 
+AI is replacing more and more of our jobs, and it's imaginable that they will be omnipresent and omnipotence to threaten our life. The reasons are as following.
 
-# reasons
-## job-threatening
-  *topic sentence*: with the machines become more and more intelligent and hence employable humans will need not apply
-  4. _fact: documentation and news_ in the [documentation](youtu.be/7Pq-S557XQU) we see that it's happening, replace human jobs Amazon replace FedEx, Watson replace doctors. many people argure that AI industry will create many jobs for humans, but since cars replaced horses, we have not created as much jobs for them, we like horse all our jobs in the last centry will be taken over by machines, at lease almost all professional, white collar jobs and low skilled jobs 
-  6. _results_ humans will be not important, who want to be useless and unemployable? we are served by robots then we may drop into anarchy 
+First, people will face with job-threatening. with the machines become more and more intelligent and hence employable humans will need not apply.
 
-## omnipresent and omnipotence 
-  *topic sentence*: in this trend and as the technology advances, machines are destined to be omnipotence
-  13. _comparison_ many people argure that it's kind of impossible, but in 1990s in the AI winter many people were not of AI also; strong AI is possible, and AI is immoral(weizenbaum). how horrible will they be?
-  5. _example_ free-floating on the internet; they may connect to other robots
-  10. _example_ they update themselves automatically; their superpower and superintelligence is not a matter rather than that they'll be smart enough to have different will and go against and finally fight against our stupid human
-  *conclusion*: it's only difficult but also not impossible(alanturing.net)
+we see that it's happening, replace human jobs Amazon replace FedEx, Watson replace doctors. many people argue that AI industry will create many jobs for humans, but since cars replaced horses, we have not created as much jobs for them, we like horse all our jobs in the last century will be taken over by machines, at lease almost all professional, white collar jobs and low skilled jobs 
+In  the result，humans will be not important, who want to be useless and unemployable? we are served by robots then we may drop into anarchy.
 
-## life-threatening
-  *topic sentence*: AI would kill us directly or indirectly
-  1. threatening our life _quote_ Stephen Hawking, "humans, who are limited by slow biological evolution, couldn't compete and would be superseded.", Elon Musk.  just like the way we treat other creatures
-  11. _examples_ they may not kill us but a massive asteroid strike, a nearby supernova or gamma ray burst, a massive shift in the climate knocking out world food production, an extremely virulent virus, Global thermonuclear war made by them would kill us. AI may won't go wild but human who own them may. only a small chance of threatening leads to the whole human disaster or instinction
+Second, AI will be omnipresent and omnipotence. in this trend and as the technology advances, machines are destined to be omnipotence
 
-# conclusion
-the govenment should make laws to stop the nowadays research on AI as they did for human clone, otherwise will drop into an unfathomable death hell
+many people argue that it's kind of impossible, but in 1990s in the AI winter many people were not of AI also; strong AI is possible, and AI is immoral(weizenbaum). how horrible will they be?
+For example, with the ability of free-floating on the internet, they may connect to other robots.They update themselves automatically,and their superpower and superintelligence is not a matter rather than that they'll be smart enough to have different will and go against and finally fight against our stupid human.
+
+In general, it's only difficult but also not impossible(alanturing.net)
+
+Third, humanity would face life-threatening. Because AI would kill us directly or indirectly.
+
+Stephen Hawking, "humans, who are limited by slow biological evolution, couldn't compete and would be superseded.” Elon Musk,”just like the way we treat other creatures.”
+
+They may not kill us but a massive asteroid strike, a nearby supernova or gamma ray burst, a massive shift in the climate knocking out world food production, an extremely virulent virus, Global thermonuclear war made by them would kill us. AI may won't go wild but human who own them may. That is to say,only a small chance of threatening leads to the whole human disaster or extinction.
+
+So, the government should make laws to stop the nowadays research on AI as they did for human clone, otherwise will drop into an unfathomable death hell.
 
 ...........................     
 Welcome proofreading help and language suggestions. Tons of thanks in advance.
