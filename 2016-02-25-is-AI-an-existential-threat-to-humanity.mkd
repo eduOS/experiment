@@ -5,29 +5,15 @@ description: Some people think that artificial intelligence is important to the 
 tags: writing, experiment
 ---
 
-# introduction
   As we are far away from needing to concern such a phantom, such a question is beyond the scope of, probably, our generation.
 
-# reasons
-## technology and uncertainty
-  *topic sentence*: before worrying AI too much we should know exactly how AI today works and its history
-  10. _fact quote_ realistically speaking, AI today is very limited-Andrew Ng
-  1. _history trend_ AI winter: technology, it's too early
-  6. they're not going wild until many many years later
-  8. a lot of uncertainty
+  Before worrying AI too much we should know exactly how AI today works and its history. As the chairman of Coursera and chief scientist at Baidu Andrew Ng put it, realistically speaking, "AI today is very limited" while many nonprofessionals are thinking that machines are already as smart as human or very intelligent. From the lens of computer science or machine learning precisely, almost all AI technologies are based on supervised machine learning. That is they store and learn by labbled data rather than natural data as we read and learn. They may potentially go wild but many many years later. Or we can control them. A very similar scenario also happened in 1960s and 1970s, the "Good Old AI", befor the so called "AI winter" in 1970s. Will there be a new AI winter around the corner? Who knows.
 
-## humanity to humanity
-  2. imagination, we more imagine the worst like monsters and Gods; they will only gain bad emothions like fear, ambition and greed, but not love empathy and generosity
-  5. more manageable than we think
-  3. it's the war between human and human via AI, more convenient for terrorism
-  4. Is AI a bigger existential threat to humanity than humanity is to itself?"
-  11. terrorism
+  However we should be optimistic about science and technology. But we tend to thing based on our imagination. What's worse, we more imagine the worst like monsters and Gods; they will only gain bad emothions like fear, ambition and greed, but not love empathy and generosity. Actuall, some scientis said the AI we expect will be more manageable than we think. So, it's unlikely to be a war between machines and humans but a group of human and an other of human like terrorists. So the question becomes is AI a bigger existential threat to humanity than humanity is to itself?
 
-## we already have such power
-  7. CRISPR, yeah, intelligent biological power, but not machines are also threatening
+  The truth is that we already have such or more dangeous power: CRISPR. Not only in the computer science but also in many others domains, especially biology, many human made technologies will threaten our human beings. 
 
-# conclusion
-  since we don't know to what kind of extent we can control AI and wheather we can outcompete extremism, we cannot be certain if AI is treatening or not.
+  Since we don't know if finally we can make true AI and to what kind of extent we can control AI and wheather we can outcompete extremism, we cannot be certain if AI is treatening or not.
 
 ...........................     
 Welcome proofreading help and language suggestions. Tons of thanks in advance.
